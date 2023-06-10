@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Try `install_agnudp.sh --help` for usage.
+# Try `installer_udp.sh --help` for usage.
 #
 # (c) 2023 Khaled AGN
 #
@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="agnudp"
+OBFS="startunnelplus"
 
 # PASSWORDS
-PASSWORD="agnudp"
+PASSWORD="startunnelplus"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
