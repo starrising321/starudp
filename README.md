@@ -20,11 +20,11 @@ wget https://raw.githubusercontent.com/starrising321/starudp/main/installer_udp.
 ```
 // Edit script configuration 
 ```
-nano install_agnudp.sh
+nano installer_udp.sh
 ```
 // Install the script
 ```
-chmod +x install_agnudp.sh; ./install_agnudp.sh
+chmod +x installer_udp.sh; ./installer_udp.sh
 ```
 
 ## :octocat: by KHALED AGN
