@@ -27,6 +27,16 @@ nano installer_udp.sh
 chmod +x installer_udp.sh; ./installer_udp.sh
 ```
 
+systemctl stop hysteria-server.service
+
+systemctl start hysteria-server.service
+
+systemctl status hysteria-server.service
+
+sudo iptables -I INPUT -p tcp -m tcp --dport 36712 -j ACCEPT
+sudo iptables -I INPUT -p udp -m udp --dport 36712 -j ACCEPT
+ufw allow 36712/udp
+ufw allow 36712
 ## :octocat: by KHALED AGN
 <ul>
  <li>TELEGRAM CHANNEL: https://t.me/star_jani</li>
