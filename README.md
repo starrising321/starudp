@@ -46,11 +46,10 @@ ufw allow 36712/udp
 ufw allow 36712
 ```
 ====================================
-## :octocat: by Star Tuunel Plus Team
+## :octocat: By Star Tuunel Plus Team
 <ul>
  <li>TELEGRAM Contact: https://t.me/star_jani</li>
  </ul>
  
-## :octocat: Credits
+## :octocat: Credits  {-KHALED AGN-}
 
-1. [@apernet )
