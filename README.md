@@ -64,9 +64,6 @@ ufw allow 36712
 ====================================
 ## :octocat: `✵•.¸,✵°✵.｡.✰ 𝔹𝕪 𝕊𝕥𝕒𝕣 𝕋𝕦𝕦𝕟𝕖𝕝 ℙ𝕝𝕦𝕤 𝕋𝕖𝕒𝕞 ✰.｡.✵°✵,¸.•✵´
 
-<p>
-<a href="https://t.me/star_jani"><img src="https://edawa.net/wp-content/uploads/Join-telegram.png" height="100"></a>
- </p> 
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
