@@ -72,7 +72,7 @@ ufw allow 36712
 <p align="left">
 <a href="https://t.me/star_jani" target="blank"><img align="center" src="https://www.jobstoday.com.ng/wp-content/uploads/2022/11/Telegram-1.png" alt="prince.off.loverz" height="70" width="150"" /></a>
 <a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://www.pngitem.com/pimgs/m/65-653679_png-subscribe-button-transparent-like-and-subscribe-thumbnail.png" alt="startunnelplus" height="70" width="150" /></a>
-<a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="100" width="190" /></a>
+<a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="100" width="200" /></a>
 </p>
  
 ## :octocat: Credits  ıllıllı⭐🌟 K͙H͙A͙L͙E͙D͙ A͙G͙N͙ 🌟⭐ıllıllı
