@@ -66,7 +66,7 @@ ufw allow 36712
 
 <p>
 <a href="https://t.me/star_jani"><img src="https://edawa.net/wp-content/uploads/Join-telegram.png" height="100"></a>
-</p>   <p>
+ <p>
 <a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="100"></a>
 </p>
  
