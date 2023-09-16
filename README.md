@@ -65,9 +65,9 @@ ufw allow 36712
 ====================================
 ## :octocat: By Star Tuunel Plus Team
 
-TELEGRAM Contact: 
- <p>
-<a href="https://t.me/star_jani"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_macos_bigsur_icon_189662.png" height="100"></a>
+TELEGRAM CONTACT
+TELEGRAM CONTACT <p>
+<a href="https://t.me/star_jani"><img src="https://pngimg.com/uploads/telegram/telegram_PNG7.png" height="100"></a>
 </p>
  
 ## :octocat: Credits  {-KHALED AGN-}
