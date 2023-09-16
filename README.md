@@ -1,4 +1,4 @@
-# SCRIP-UDP By Star Tunnel Plus
+# SCRIP-UDP ミミ◦❧◦°˚°◦.¸¸◦°´❤*•.¸♥ 𝓑𝔂 𝓢𝓽𝓪𝓻 𝓣𝓾𝓷𝓷𝓮𝓵 𝓟𝓵𝓾𝓼 ♥¸.•*❤´°◦¸¸.◦°˚°◦☙◦彡彡
 
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER) 
 
@@ -63,12 +63,11 @@ ufw allow 36712/udp
 ufw allow 36712
 ```
 ====================================
-## :octocat: By Star Tuunel Plus Team
+## :octocat: `✵•.¸,✵°✵.｡.✰ 𝔹𝕪 𝕊𝕥𝕒𝕣 𝕋𝕦𝕦𝕟𝕖𝕝 ℙ𝕝𝕦𝕤 𝕋𝕖𝕒𝕞 ✰.｡.✵°✵,¸.•✵´
 
-TELEGRAM CONTACT
-TELEGRAM CONTACT <p>
-<a href="https://t.me/star_jani"><img src="https://pngimg.com/uploads/telegram/telegram_PNG7.png" height="100"></a>
+<p>
+<a href="https://t.me/star_jani"><img src="https://edawa.net/wp-content/uploads/Join-telegram.png" height="100"></a>
 </p>
  
-## :octocat: Credits  {-KHALED AGN-}
+## :octocat: Credits  ıllıllı⭐🌟 K͙H͙A͙L͙E͙D͙ A͙G͙N͙ 🌟⭐ıllıllı
 
