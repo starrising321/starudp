@@ -71,7 +71,7 @@ ufw allow 36712
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/prince.off.loverz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince.off.loverz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://edawa.net/wp-content/uploads/Join-telegram.png" alt="startunnelplus" height="40" width="150" /></a>
+<a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://simg.nicepng.com/png/small/5-58663_wow-life-youtube-channel-youtube-logo-black.png" alt="startunnelplus" height="40" width="150" /></a>
 </p>
  
 ## :octocat: Credits  ıllıllı⭐🌟 K͙H͙A͙L͙E͙D͙ A͙G͙N͙ 🌟⭐ıllıllı
