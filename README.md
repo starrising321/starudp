@@ -67,6 +67,12 @@ ufw allow 36712
 <p>
 <a href="https://t.me/star_jani"><img src="https://edawa.net/wp-content/uploads/Join-telegram.png" height="100"></a>
  </p> 
+
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/prince.off.loverz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince.off.loverz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="startunnelplus" height="30" width="40" /></a>
+</p>
  
 ## :octocat: Credits  ıllıllı⭐🌟 K͙H͙A͙L͙E͙D͙ A͙G͙N͙ 🌟⭐ıllıllı
 
