@@ -69,7 +69,7 @@ ufw allow 36712
 <p align="left">
 <a href="https://t.me/star_jani" target="blank"><img align="center" src="https://edawa.net/wp-content/uploads/Join-telegram.png" alt="star_jani" height="90" width="220"" /></a>
 <a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://www.pngitem.com/pimgs/m/65-653679_png-subscribe-button-transparent-like-and-subscribe-thumbnail.png" alt="startunnelplus" height="60" width="150" /></a>
-<a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="100" width="200" /></a>
+<a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="100" width="220" /></a>
 </p>
  
 ## :octocat: Credits  ıllıllı⭐🌟 K͙H͙A͙L͙E͙D͙ A͙G͙N͙ 🌟⭐ıllıllı
