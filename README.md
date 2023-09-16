@@ -69,7 +69,7 @@ ufw allow 36712
  </ul>
 
  <p>
-<a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus"><img src="[https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png](https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_macos_bigsur_icon_189662.png)https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_macos_bigsur_icon_189662.png" height="100"></a>
+<a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="100"></a>
 </p>
  
 ## :octocat: Credits  {-KHALED AGN-}
