@@ -1,4 +1,4 @@
-# AGN-UDP By KHALED AGN
+# SCRIP-UDP By Star Tunnel Plus
 
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER) 
 
@@ -26,20 +26,29 @@ nano installer_udp.sh
 ```
 chmod +x installer_udp.sh; ./installer_udp.sh
 ```
-
+// Command 1
+```
 systemctl stop hysteria-server.service
-
+```
+// Command 2
+```
 systemctl start hysteria-server.service
-
+```
+// Command 3
+```
 systemctl status hysteria-server.service
-
+```
+// Command 4
+```
 sudo iptables -I INPUT -p tcp -m tcp --dport 36712 -j ACCEPT
 sudo iptables -I INPUT -p udp -m udp --dport 36712 -j ACCEPT
 ufw allow 36712/udp
 ufw allow 36712
-## :octocat: by KHALED AGN
+```
+====================================
+## :octocat: by Star Tuunel Plus Team
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/star_jani</li>
+ <li>TELEGRAM Contact: https://t.me/star_jani</li>
  </ul>
  
 ## :octocat: Credits
