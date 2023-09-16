@@ -24,7 +24,24 @@ nano installer_udp.sh
 ```
 // Install the script
 ```
-chmod +x installer_udp.sh; ./installer_udp.sh
+chmod +x installer_udp.sh
+```
+// CMD
+```
+./installer_udp.sh
+```
+// Allowed Port
+```
+sudo ufw allow 10000:65000/udp
+ufw enable
+```
+// Find Json
+```
+find / -name config.json
+```
+// Edit Password
+```
+nano /etc/hysteria/config.json
 ```
 // Command 1
 ```
