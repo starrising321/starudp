@@ -65,10 +65,8 @@ ufw allow 36712
 ## :octocat: `✵•.¸,✵°✵.｡.✰ 𝔹𝕪 𝕊𝕥𝕒𝕣 𝕋𝕦𝕦𝕟𝕖𝕝 ℙ𝕝𝕦𝕤 𝕋𝕖𝕒𝕞 ✰.｡.✵°✵,¸.•✵´
 
 <p>
-<a href="https://t.me/star_jani"><img src="https://edawa.net/wp-content/uploads/Join-telegram.png" height="100">
- </p>   <p>
-<a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="100"></a>
-</p>
+<a href="https://t.me/star_jani"><img src="https://edawa.net/wp-content/uploads/Join-telegram.png" height="100"></a>
+ </p> 
  
 ## :octocat: Credits  ıllıllı⭐🌟 K͙H͙A͙L͙E͙D͙ A͙G͙N͙ 🌟⭐ıllıllı
 
