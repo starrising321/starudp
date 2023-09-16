@@ -1,4 +1,6 @@
-# SCRIP-UDP ミミ◦❧◦°˚°◦.¸¸◦°´❤*•.¸♥ 𝓑𝔂 𝓢𝓽𝓪𝓻 𝓣𝓾𝓷𝓷𝓮𝓵 𝓟𝓵𝓾𝓼 ♥¸.•*❤´°◦¸¸.◦°˚°◦☙◦彡彡
+                     # SCRIP-UDP 
+
+ミミ◦❧◦°˚°◦.¸¸◦°´❤*•.¸♥ 𝓑𝔂 𝓢𝓽𝓪𝓻 𝓣𝓾𝓷𝓷𝓮𝓵 𝓟𝓵𝓾𝓼 ♥¸.•*❤´°◦¸¸.◦°˚°◦☙◦彡彡
 
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER) 
 
