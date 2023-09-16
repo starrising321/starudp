@@ -64,12 +64,10 @@ ufw allow 36712
 ```
 ====================================
 ## :octocat: By Star Tuunel Plus Team
-<ul>
- <li>TELEGRAM Contact: https://t.me/star_jani</li>
- </ul>
 
+TELEGRAM Contact: 
  <p>
-<a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_macos_bigsur_icon_189662.png" height="100"></a>
+<a href="https://t.me/star_jani"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_macos_bigsur_icon_189662.png" height="100"></a>
 </p>
  
 ## :octocat: Credits  {-KHALED AGN-}
