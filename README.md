@@ -70,7 +70,7 @@ ufw allow 36712
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/prince.off.loverz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince.off.loverz" height="30" width="40" /></a>
+<a href="https://fb.com/prince.off.loverz" target="blank"><img align="center" src="https://www.jobstoday.com.ng/wp-content/uploads/2022/11/Telegram-1.png" alt="prince.off.loverz" height="50" width="150"" /></a>
 <a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://www.pngitem.com/pimgs/m/65-653679_png-subscribe-button-transparent-like-and-subscribe-thumbnail.png" alt="startunnelplus" height="50" width="150" /></a>
 </p>
  
