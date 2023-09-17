@@ -68,7 +68,7 @@ ufw allow 36712
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/star_jani" target="blank"><img align="center" src="https://edawa.net/wp-content/uploads/Join-telegram.png" alt="star_jani" height="90" width="230"" /></a>
-<a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://www.mediafire.com/view/4vupzafu6nofyyw" alt="startunnelplus" height="60" width="150" /></a>
+<a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://wallpapercave.com/wp/wp6382611.jpg" alt="startunnelplus" height="60" width="150" /></a>
 <a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="100" width="230" /></a>
 </p>
  
