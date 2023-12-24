@@ -545,18 +545,18 @@ check_hysteria_homedir() {
 
 show_usage_and_exit() {
 	echo
-	echo -e "\t$(tbold)$SCRIPT_NAME$(treset) - AGN-UDP server install script"
+	echo -e "\t$(tbold)$SCRIPT_NAME$(treset) - starudp server install script"
 	echo
 	echo -e "Usage:"
 	echo
-	echo -e "$(tbold)Install AGN-UDP$(treset)"
+	echo -e "$(tbold)Install starudp$(treset)"
 	echo -e "\t$0 [ -f | -l <file> | --version <version> ]"
 	echo -e "Flags:"
 	echo -e "\t-f, --force\tForce re-install latest or specified version even if it has been installed."
-	echo -e "\t-l, --local <file>\tInstall specified AGN-UDP binary instead of download it."
+	echo -e "\t-l, --local <file>\tInstall specified starudp binary instead of download it."
 	echo -e "\t--version <version>\tInstall specified version instead of the latest."
 	echo
-	echo -e "$(tbold)Remove AGN-UDP$(treset)"
+	echo -e "$(tbold)Remove starudp$(treset)"
 	echo -e "\t$0 --remove"
 	echo
 	echo -e "$(tbold)Check for the update$(treset)"
@@ -647,7 +647,7 @@ tpl_hysteria_server_service_base() {
 
   cat << EOF
 [Unit]
-Description=AGN-UDP Service
+Description=starudp Service
 After=network.target
 
 [Service]
@@ -930,9 +930,9 @@ perform_install() {
 					        start_services
 						if [[ -n "$_is_frash_install" ]]; then
 							echo
-							echo -e "$(tbold)Congratulation! AGN-UDP has been successfully installed on your server.$(treset)"
+							echo -e "$(tbold)Congratulation! starudp has been successfully installed on your server.$(treset)"
 							echo
-							echo -e "$(tbold)Client app AGN INJECTOR:$(treset)"
+							echo -e "$(tbold)Client app Star Tunnel Plus:$(treset)"
 							echo -e "$(tblue)https://play.google.com/store/apps/details?id=stp.startunnel.plus$(treset)"
 							echo
 							echo -e "Follow me!"
@@ -945,7 +945,7 @@ perform_install() {
 								restart_running_services
 								
 								echo
-								echo -e "$(tbold)AGN-UDP has been successfully update to $VERSION.$(treset)"
+								echo -e "$(tbold)starudp has been successfully update to $VERSION.$(treset)"
 								echo
 								fi
 }
@@ -956,7 +956,7 @@ perform_remove() {
 	perform_remove_hysteria_systemd
 	
 	echo
-	echo -e "$(tbold)Congratulation! AGN-UDP has been successfully removed from your server.$(treset)"
+	echo -e "$(tbold)Congratulation! starudp has been successfully removed from your server.$(treset)"
 	echo
 	echo -e "You still need to remove configuration files and ACME certificates manually with the following commands:"
 	echo
@@ -1003,7 +1003,7 @@ setup_ssl() {
 }
 
 start_services() {
-	echo "Starting AGN-UDP"
+	echo "Starting starudp"
 	apt update
 	sudo debconf-set-selections <<< "iptables-persistent iptables-persistent/autosave_v4 boolean true"
         sudo debconf-set-selections <<< "iptables-persistent iptables-persistent/autosave_v6 boolean true"
