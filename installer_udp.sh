@@ -2,7 +2,7 @@
 #
 # Try `installer_udp.sh --help` for usage.
 #
-# (c) 2023 Khaled AGN
+# (c) 2023 Muhammad Rizwan
 #
 
 set -e
